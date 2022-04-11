@@ -27,3 +27,7 @@
   height: 25px;
   margin-right: 40px;
 }
+.right {
+  display: flex;
+  align-items: center;
+}
