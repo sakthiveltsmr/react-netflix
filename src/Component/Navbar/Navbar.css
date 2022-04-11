@@ -7,3 +7,19 @@
   z-index: 999;
   background: linear-gradient(to top, transparent 0%, rgb(0, 0, 0, 0.3) 50%);
 }
+
+.container {
+  padding: 0px 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 70px;
+}
+.left {
+  display: flex;
+  align-items: center;
+}
+.left img {
+  height: 25px;
+  margin-right: 40px;
+}
