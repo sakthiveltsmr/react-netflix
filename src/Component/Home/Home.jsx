@@ -1,12 +1,7 @@
-import { AcUnit } from "@material-ui/icons";
 import "./Home.css";
 
 const Home = () => {
-  return (
-    <div className="Home">
-      <AcUnit />
-    </div>
-  );
+  return <div className="home"></div>;
 };
 
 export default Home;
