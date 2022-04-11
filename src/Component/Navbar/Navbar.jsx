@@ -10,11 +10,11 @@ export const Navbar = () => {
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/2560px-Netflix_2015_logo.svg.png"
             alt="netflix"
           />
-          <span>Home</span>
+          <span>Homepage</span>
           <span>Series</span>
-          <span>Movie</span>
+          <span>Movies</span>
           <span>New and Popular</span>
-          <span>My list</span>
+          <span>My List</span>
         </div>
         <div className="right"></div>
       </div>
