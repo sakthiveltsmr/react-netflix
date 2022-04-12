@@ -27,7 +27,7 @@ export default function Features({ type }) {
         </div>
       )}
       <img
-        src="https://images.pexels.com/photos/6899260/pexels-photo-6899260.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+        src="https://phantombuddy.com/wp-content/uploads/2021/09/wallpapersden.com_the-matrix-4-resurrections_2560x1800.jpg"
         alt=""
       />
       <div className="info">
@@ -35,6 +35,7 @@ export default function Features({ type }) {
           src="https://occ-0-1432-1433.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUZdeG1DrMstq-YKHZ-dA-cx2uQN_YbCYx7RABDk0y7F8ZK6nzgCz4bp5qJVgMizPbVpIvXrd4xMBQAuNe0xmuW2WjoeGMDn1cFO.webp?r=df1"
           alt=""
         />
+
         <span className="desc">
           What is The Matrix? That question leads computer hacker Neo down a
           rabbit hole — and to the mind-blowing truth about the world as he
