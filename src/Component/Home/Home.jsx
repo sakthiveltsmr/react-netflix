@@ -1,5 +1,5 @@
 import { Navbar } from "../Navbar/Navbar";
-import "./Home.css";
+import "./Home.scss";
 
 const Home = () => {
   return (
