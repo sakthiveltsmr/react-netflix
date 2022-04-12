@@ -1,6 +1,6 @@
 import { Navbar } from "../Navbar/Navbar";
 import "./Home.scss";
-import { Features } from "../Features/Features";
+import Features from "../Features/Features";
 
 const Home = () => {
   return (
