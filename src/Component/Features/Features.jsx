@@ -36,10 +36,9 @@ export default function Features({ type }) {
           alt=""
         />
         <span className="desc">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
-          adipisci repellendus eum quasi illo, velit numquam, maxime tempora
-          sint deleniti, aliquid qui? Facilis, adipisci! Ratione hic repudiandae
-          temporibus eum earum?
+          What is The Matrix? That question leads computer hacker Neo down a
+          rabbit hole — and to the mind-blowing truth about the world as he
+          knows it.
         </span>
         <div className="buttons">
           <button className="play">
