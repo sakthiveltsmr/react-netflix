@@ -47,7 +47,7 @@
   background-color: var(--main-color);
   border-radius: 5px;
 }
-.profile .options:hover {
+.options:hover {
   display: flex;
   flex-direction: column;
   position: absolute;
