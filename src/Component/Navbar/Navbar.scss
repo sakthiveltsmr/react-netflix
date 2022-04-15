@@ -60,6 +60,10 @@
         span {
           padding: 10px;
           cursor: pointer;
+          .link {
+            text-decoration: none;
+            color: aliceblue;
+          }
         }
 
         &:hover {

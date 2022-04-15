@@ -38,7 +38,9 @@ export const Navbar = () => {
             <div className="options">
               <span>Settings</span>
               <span>
-                <Link to="/login">Logout </Link>
+                <Link className="link" to="/login">
+                  Logout{" "}
+                </Link>
               </span>
             </div>
           </div>
