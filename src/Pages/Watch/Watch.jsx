@@ -1,11 +1,14 @@
 import { ArrowBackOutlined } from "@material-ui/icons";
+import { Link } from "react-router-dom";
 import "./watch.scss";
 
 export default function Watch() {
   return (
     <div className="watch">
       <div className="back">
-        <ArrowBackOutlined />
+        <Link className="link" to="/">
+          <ArrowBackOutlined />
+        </Link>
         Home
       </div>
       <video
