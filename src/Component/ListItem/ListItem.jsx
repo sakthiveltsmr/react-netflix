@@ -25,7 +25,15 @@ export default function ListItem({ index }) {
       />
       {isHovered && (
         <>
-          <video src={trailer} autoPlay={true} loop />
+          <iframe
+            className="iframe"
+            src="https://www.youtube.com/embed/8ugaeA-nMTc"
+            autoplay={true}
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+            Loop
+          ></iframe>
           <div className="itemInfo">
             <div className="icons">
               <Link className="link" to="/watch">
