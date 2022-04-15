@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "./Login.scss";
 
 export default function Login() {
@@ -17,7 +18,11 @@ export default function Login() {
           <h1>Sign In</h1>
           <input type="email" placeholder="Email or phone number" />
           <input type="password" placeholder="Password" />
-          <button className="loginButton">Sign In</button>
+          <button className="loginButton">
+            <Link className="link" to="/">
+              Sign In
+            </Link>
+          </button>
           <span>
             New to Netflix? <b>Sign up now.</b>
           </span>
