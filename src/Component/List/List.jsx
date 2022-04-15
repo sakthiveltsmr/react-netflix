@@ -40,10 +40,6 @@ export default function List() {
           <ListItem index={3} />
           <ListItem index={4} />
           <ListItem index={5} />
-          <ListItem index={6} />
-          <ListItem index={7} />
-          <ListItem index={8} />
-          <ListItem index={9} />
         </div>
         <ArrowForwardIosOutlined
           className="sliderArrow right"
